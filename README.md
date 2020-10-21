@@ -1,1 +1,1 @@
-# polygon-race
+# POLYGON-RACE
