@@ -1,6 +1,8 @@
 # POLYGON-RACE
 
-Polygon race is a 3d car video game that consists of trying to get as far as possible through the traffic of a retro-futuristic city, in order to accumulate points according to the distance traveled before colliding with another car in the traffic
+![Game logo](https://github.com/santiagopemo/polygon-race/blob/main/Images/Logo_sin_fondo.png)
+
+Polygon race is a 3d car video game that consists of trying to get as far as possible through the traffic of a retro-futuristic city, in order to accumulate points according to the distance traveled before colliding with another car in the traffic.
 
 ## The Team
 
@@ -39,3 +41,16 @@ During the last years, the video game industry has experienced high growth rates
 According to the market intelligence company Newzoo, the video game industry closed 2019 with global revenues of more than 150,000 million dollars and year-on-year growth of 9.6%, dominating audiovisual entertainment, well ahead of music and cinema.
 These data reveal a great need for people to occupy their leisure time through these types of applications. That is why this project proposes the development of a racing video game, with simple playability.
 
+## Screenshots
+
+![Choose alias](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.56.46%20p.%C2%A0m..png)
+
+![Main menu](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.28.58%20p.%C2%A0m..png)
+
+![Gameplay](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.28.12%20p.%C2%A0m..png)
+
+![Game over](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.27.45%20p.%C2%A0m..png)
+
+![Settings](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.25.34%20p.%C2%A0m..png)
+
+![Scores](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.27.56%20p.%C2%A0m..png)
