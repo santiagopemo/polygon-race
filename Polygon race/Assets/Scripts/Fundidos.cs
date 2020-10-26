@@ -18,11 +18,15 @@ public class Fundidos : MonoBehaviour
     {
         fundido.CrossFadeAlpha(1, 0.2f, false);
         StartCoroutine(SceneChange(scene));
+        if (SceneManager.GetActiveScene().name == "Scores")
+            FindObjectOfType<DontDestroy>().SaveScoresJSON();
+        if (SceneManager.GetActiveScene().name == "Settings")
+            FindObjectOfType<DontDestroy>().SaveSettingsJSON();
     }
 
     IEnumerator SceneChange(string scene)
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(0.2f);
         SceneManager.LoadScene(scene);
     }
 

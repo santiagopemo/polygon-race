@@ -2,27 +2,47 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using System;
 
 public class SettingScript : MonoBehaviour
 {
-    public AudioSource AudioSource;
+    public AudioSource BgSound;
+    public Slider volume;
+    public Toggle effects;
+    public InputField alias;
+    public GameObject dataGO;
+    public DontDestroy data;
 
     private float musicVolume;
 
     // Start is called before the first frame update
     void Start()
     {
-        AudioSource = FindObjectOfType<DontDestroy>().gameObject.GetComponent<AudioSource>();
+        dataGO = FindObjectOfType<DontDestroy>().gameObject;
+        data = dataGO.GetComponent<DontDestroy>();
+        BgSound = dataGO.GetComponent<AudioSource>();
+        if (volume)
+            volume.value = data.volume;
+        if (effects)
+            effects.isOn = data.effects;
+        if (alias)
+        {
+            alias.characterLimit = 12;
+            alias.text = data.alias;
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        AudioSource.volume = GameObject.FindGameObjectWithTag("VolumeSlider").GetComponent<Slider>().value;
-    }
-
-    public void updateVolume ( float volume )
-    {
-        musicVolume = volume;
+        if (volume)
+        {
+            BgSound.volume = volume.value;
+            data.volume = volume.value;
+        }
+        if (effects)
+            data.effects = effects.isOn;
+        if (alias)
+            data.alias = alias.text;        
     }
 }

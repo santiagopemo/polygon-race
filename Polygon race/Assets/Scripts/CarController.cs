@@ -49,6 +49,16 @@ public class CarController : MonoBehaviour
     public Text txtGameOver;
     public float speedIncrease;
     float time;
+
+    public bool startCar;
+    public DontDestroy data;
+
+    GameObject frontWheelLeft;
+    GameObject frontWheelRight;
+    GameObject rearWheelLeft;
+    GameObject rearWheelRight;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -58,7 +68,7 @@ public class CarController : MonoBehaviour
         rearWheels = GameObject.FindGameObjectsWithTag("RearWheel");
         frontWheels = GameObject.FindGameObjectsWithTag("FrontWheel");
         wheelsTurn = 0;
-        GetComponent<AudioSource>().Play();
+        // GetComponent<AudioSource>().Play();
         score = 0;
         deltaCityBackGround = xDisplacement - cityBackGround.transform.position.x;
         ObjectsWithAudio = FindObjectsOfType<AudioSource>();
@@ -67,6 +77,12 @@ public class CarController : MonoBehaviour
         isOver = false;
         speedIncrease = 0;
         time = 0;
+        startCar = false;
+        data = FindObjectOfType<DontDestroy>();
+        frontWheelLeft = GameObject.FindGameObjectWithTag("FrontWheelLeft");
+        frontWheelRight = GameObject.FindGameObjectWithTag("FrontWheelRight");
+        rearWheelLeft = GameObject.FindGameObjectWithTag("RearWheelLeft");
+        rearWheelRight = GameObject.FindGameObjectWithTag("RearWheelRight");
     }
 
     public void CalculateScore()
@@ -99,7 +115,11 @@ public class CarController : MonoBehaviour
     {
         for (int i = 0; i < ObjectsWithAudio.Length; i++)
         {
-            ObjectsWithAudio[i].Stop();
+            // Pause de backgroun music and stop the others sounds
+            if (ObjectsWithAudio[i].GetComponent<DontDestroy>() != null)
+                ObjectsWithAudio[i].Pause();
+            else
+                ObjectsWithAudio[i].Stop();
         }
         audioS = GetComponent<AudioSource>();
         audioS.loop = false;
@@ -113,6 +133,7 @@ public class CarController : MonoBehaviour
         txtScore.gameObject.SetActive(false);
         gameOverPanel.SetActive(true);
         txtGameOver.text = "you did " + (int)score + " mts";
+        data.saveInScores((int)score);
     }
 
     void calculateTime()
@@ -131,6 +152,9 @@ public class CarController : MonoBehaviour
     {
         float turnInY = 0;
         float wheelsTurnInY = 0;
+
+        if (startCar == false)
+            return;
 
         if (gameOver == true && isOver == false)
         {
@@ -155,14 +179,20 @@ public class CarController : MonoBehaviour
 
             // Rotate car's wheels
             wheelsTurnInY = turnInY * 3;
-            for (int i = 0; i < frontWheels.Length; i++)
+            /*for (int i = 0; i < frontWheels.Length; i++)
             {
-                frontWheels[i].transform.rotation = Quaternion.Euler((speed / 25) * wheelsTurn++, 90 + wheelsTurnInY, 0);
+                //frontWheels[i].transform.rotation = Quaternion.Euler((speed / 25) * wheelsTurn++, 90 + wheelsTurnInY, 0);
+                frontWheels[i].transform.rotation = Quaternion.Euler(0, frontWheels[i].transform.rotation.y + wheelsTurnInY, (speed / 25) * wheelsTurn++);
             }
             for (int i = 0; i < rearWheels.Length; i++)
             {
-                rearWheels[i].transform.rotation = Quaternion.Euler((speed / 25) * wheelsTurn++, 90 + turnInY, 0);
-            }
+                //rearWheels[i].transform.rotation = Quaternion.Euler((speed / 25) * wheelsTurn++, 90 + turnInY, 0);
+                rearWheels[i].transform.rotation = Quaternion.Euler(0, rearWheels[i].transform.rotation.eulerAngles.y, (speed / 25) * wheelsTurn++);
+            }*/
+            frontWheelLeft.transform.rotation = Quaternion.Euler(0, wheelsTurnInY, (speed / 25) * wheelsTurn++);
+            frontWheelRight.transform.rotation = Quaternion.Euler(0, 180 + wheelsTurnInY, (speed / 25) * wheelsTurn++);
+            rearWheelLeft.transform.rotation = Quaternion.Euler(0, turnInY, (speed / 25) * wheelsTurn++);
+            rearWheelRight.transform.rotation = Quaternion.Euler(0, 180 + turnInY, (speed / 25) * wheelsTurn++);
 
             // Calculate player's score
             CalculateScore();
@@ -183,7 +213,13 @@ public class CarController : MonoBehaviour
                 Time.timeScale = 1;
                 OnResume();
             }
-        }
-        
+        }        
     }
+    /*public void StartEngine()
+    {
+        audioS = GetComponent<AudioSource>();
+        audioS.loop = false;
+        audioS.clip = audioEffects[1];
+        audioS.Play();
+    }*/
 }

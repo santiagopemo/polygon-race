@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public class HighscoreTable : MonoBehaviour
 {
-    private Transform entryContainer;
+    /*private Transform entryContainer;
     private Transform entryTemplate;
     private List<Transform> highscoreEntryTransformList;
 
@@ -85,18 +85,18 @@ public class HighscoreTable : MonoBehaviour
         string json = JsonUtility.ToJson(highscores);
         PlayerPrefs.SetString("highscoreTable", json);
         PlayerPrefs.Save();
-    }
+    }*/
 
 
-    private class Highscores {
+   /* private class Highscores {
         public List<HighscoreEntry> highscoreEntryList;
-    }
+    }*/
     /*
      * Represents a single highscore entry
      * */
-    [System.Serializable]
+    /*[System.Serializable]
     private class HighscoreEntry {
         public int score;
         public string name;
-    }
+    }*/
 }

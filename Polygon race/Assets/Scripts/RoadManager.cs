@@ -15,7 +15,7 @@ public class RoadManager : MonoBehaviour
         playerCar = FindObjectOfType<CarController>().gameObject;
         xSpawn = 0;
         roadLenght = 140;
-        numberOfRoads = 1;
+        numberOfRoads = 2;
         SpawnRoad(0);
         for (int i = 0; i < numberOfRoads; i++)
         {

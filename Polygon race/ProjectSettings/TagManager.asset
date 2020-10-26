@@ -7,6 +7,10 @@ TagManager:
   - RearWheel
   - FrontWheel
   - CityBackground
+  - FrontWheelLeft
+  - FrontWheelRight
+  - RearWheelLeft
+  - RearWheelRight
   layers:
   - Default
   - TransparentFX

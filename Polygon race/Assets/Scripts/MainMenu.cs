@@ -14,9 +14,8 @@ public class MainMenu : MonoBehaviour
             mainMenuMusic.Play();
         }
     }
-    public void QuitGame ()
+    public void QuitGame()
     {
-        Debug.Log("Sali gono");
         Application.Quit();
     }
 }
