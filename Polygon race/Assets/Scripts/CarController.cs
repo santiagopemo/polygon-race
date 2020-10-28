@@ -1,6 +1,5 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Build.Content;
 using UnityEngine;
 using UnityEngine.Assertions.Comparers;
 using UnityEngine.SocialPlatforms.Impl;
@@ -33,6 +32,7 @@ public class CarController : MonoBehaviour
     public Text txtScore;
 
     public Text txtPause;
+    public GameObject pausedPanel;
     public GameObject cityBackGround;
     public float deltaCityBackGround;
 
@@ -95,6 +95,7 @@ public class CarController : MonoBehaviour
     {
         gamePaused = true;
         txtPause.gameObject.SetActive(true);
+        pausedPanel.SetActive(true);
         for (int i = 0; i < ObjectsWithAudio.Length; i++)
         {
             ObjectsWithAudio[i].Pause();
@@ -105,6 +106,7 @@ public class CarController : MonoBehaviour
     {
         gamePaused = false;
         txtPause.gameObject.SetActive(false);
+        pausedPanel.SetActive(false);
         for (int i = 0; i < ObjectsWithAudio.Length; i++)
         {
             ObjectsWithAudio[i].UnPause();
