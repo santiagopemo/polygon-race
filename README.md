@@ -35,12 +35,12 @@ Game designer
 
 There are two ways to get polygon race:  
 1. The fast way:
-  - Go to our landing page **[Poligon Race's landing page](http://54.175.222.196)** and download one of our 2 versions for window or macos, depending on your operating system, unzip the directory, and click on the **Polygon Race** executable  
+  * Go to our landing page **[Poligon Race's landing page](http://54.175.222.196)** and download one of our 2 versions for window or macos, depending on your operating system, unzip the directory, and click on the **Polygon Race** executable  
 2. The long way:  
-  - Download untity from its official site [https://unity3d.com/es/get-unity/download](https://unity3d.com/es/get-unity/download)
-  - Clone this repository `git clone https://github.com/santiagopemo/polygon-race`
-  - When you have opened the project in Unity go to **file -> Build Settings -> Build**
-  - Execute **Polygon Race** executable file
+  * Download untity from its official site [https://unity3d.com/es/get-unity/download](https://unity3d.com/es/get-unity/download)
+  * Clone this repository `git clone https://github.com/santiagopemo/polygon-race`
+  * When you have opened the project in Unity go to **file -> Build Settings -> Build**
+  * Execute **Polygon Race** executable file
   
 ## Usage
 The game starts at the interface of the main menu, where you can choose one of four options, **play**, view the **scores**, change the **settings** and **exit**  
