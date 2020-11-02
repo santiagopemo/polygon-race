@@ -1,7 +1,7 @@
 # POLYGON-RACE
 
 <p align="center">
-  <img width="460" height="300" src="./Images/Logo_sin_fondo.png">
+  <img width="460" height="460" src="./Images/Logo_sin_fondo.png">
 </p>
 ![Game logo](https://github.com/santiagopemo/polygon-race/blob/main/Images/Logo_sin_fondo.png)
 
