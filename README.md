@@ -1,4 +1,4 @@
-# POLYGON-RACE
+# POLYGON-RACE!!!!!
 
 ![Game logo](https://github.com/santiagopemo/polygon-race/blob/main/Images/Logo_sin_fondo.png)
 
@@ -45,7 +45,7 @@ These data reveal a great need for people to occupy their leisure time through t
 you can download Polygo Race from Sapopetas Studio website
 
 
-## Screenshots
+## Screenshots!
 
 ![Choose alias](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.56.46%20p.%C2%A0m..png)
 
