@@ -3,9 +3,8 @@
 <p align="center">
   <img width="460" height="460" src="./Images/Logo_sin_fondo.png">
 </p>
-![Game logo](https://github.com/santiagopemo/polygon-race/blob/main/Images/Logo_sin_fondo.png)
 
-Polygon race is a 3d car video game that consists of trying to get as far as possible through the traffic of a retro-futuristic city, in order to accumulate points according to the distance traveled before colliding with another car in the traffic.
+**Polygon Race** is a 3d racing video game that consists of trying to get as far as possible through the traffic of a retro-futuristic city, in order to accumulate points according to the distance traveled before colliding with another car in the traffic.
 
 ## Introduction
 Polygon Race is a simple-to-play 3D racing video game developed in the Unity video game engine integrating other tools such as Blender and Adobe Illustrator , with a programming logic developed in the C# language. This game has a retro-futuristic aesthetic, in which the player is immersed in a busy highway that leads to the utopian city of Polygon City, whose objective is to move at high speed avoiding traffic, generating the highest possible score and thus becoming the best Polygon Racer. 
@@ -45,6 +44,7 @@ There are two ways to get polygon race:
   - Execute **Polygon Race** executable file
   
 ## Usage
+The game starts at the interface of the main menu, where you can choose one of four options, **play**, view the **scores**, change the **settings** and **exit**.
  
 ## Technologies
 
