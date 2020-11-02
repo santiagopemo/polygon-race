@@ -1,4 +1,4 @@
-# POLYGON-RACE!!!!!
+# POLYGON-RACE
 
 ![Game logo](https://github.com/santiagopemo/polygon-race/blob/main/Images/Logo_sin_fondo.png)
 
