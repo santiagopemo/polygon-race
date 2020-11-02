@@ -1,5 +1,8 @@
 # POLYGON-RACE
 
+<p align="center">
+  <img width="460" height="300" src="./Images/Logo_sin_fondo.png">
+</p>
 ![Game logo](https://github.com/santiagopemo/polygon-race/blob/main/Images/Logo_sin_fondo.png)
 
 Polygon race is a 3d car video game that consists of trying to get as far as possible through the traffic of a retro-futuristic city, in order to accumulate points according to the distance traveled before colliding with another car in the traffic.
@@ -11,24 +14,24 @@ Polygon Race is a simple-to-play 3D racing video game developed in the Unity vid
 
 ## The Team
 
-### Santiago Peña Mosquera
-Game Logic Developer
+### Santiago Peña Mosquera  
+Game Logic Developer  
 **[LinkedIn](https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/)**
 
-### Alejandro Rusca Moreno
-Front-end Developer
+### Alejandro Rusca Moreno  
+Front-end Developer  
 **[LinkedIn](https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/)**
 
-### Ricky Fabian Mosquera
-Front-end Developer
+### Ricky Fabian Mosquera  
+Front-end Developer  
 **[LinkedIn](https://www.linkedin.com/in/fabian-mosquera-631a5a1a1/)**
 
-### Juan José Gómez Rodríguez
-Tester and Artist
+### Juan José Gómez Rodríguez  
+Tester and Artist  
 **[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-g%C3%B3mez-1b8b801a0/)**
 
-### Andres Felipe Rodriguez Cardona
-Game designer
+### Andres Felipe Rodriguez Cardona  
+Game designer  
 **[LinkedIn](https://www.linkedin.com/in/andres-rodriguez-851034167/)**
 
 ## Installation
@@ -36,10 +39,12 @@ Game designer
 There are two ways to get polygon race:
 1. Go to our landing page **[Poligon Race's landing page](http://54.175.222.196)** and download one of our 2 versions for window or macos, depending on your operating system, unzip the directory, and click on the **Polygon Race** executable  
 2. The long way:  
-- Download untity from its official site [https://unity3d.com/es/get-unity/download](https://unity3d.com/es/get-unity/download)
-  - Clone this repository ´git clone https://github.com/santiagopemo/polygon-race´
+ - Download untity from its official site [https://unity3d.com/es/get-unity/download](https://unity3d.com/es/get-unity/download)
+  - Clone this repository `git clone https://github.com/santiagopemo/polygon-race`
   - When you have opened the project in Unity go to **file -> Build Settings -> Build**
   - Execute **Polygon Race** executable file
+  
+## Usage
  
 ## Technologies
 
