@@ -34,7 +34,7 @@ Game designer
 ## Installation
 
 There are two ways to get polygon race:  
-1. The fast way:
+Markup: 1. The fast way:
   * Go to our landing page **[Poligon Race's landing page](http://54.175.222.196)** and download one of our 2 versions for window or macos, depending on your operating system, unzip the directory, and click on the **Polygon Race** executable  
 2. The long way:  
   * Download untity from its official site [https://unity3d.com/es/get-unity/download](https://unity3d.com/es/get-unity/download)
