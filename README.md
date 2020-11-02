@@ -47,11 +47,11 @@ There are two ways to get polygon race:
 The game starts at the interface of the main menu, where you can choose one of four options, **play**, view the **scores**, change the **settings** and **exit**.
 <p align="center">
   <img width="460" height="260" src="./Images/main_menu.PNG">
-</p>
+</p>  
 To play, only 3 keys are needed, the **right arrow** to move to the right, the **left arrow** to move to the left, and the **p** key to pause the game
 <p align="center">
   <img width="460" height="260" src="./Images/jugando.gif">
-</p>
+</p>  
 ## Technologies
 
 ### Blender
