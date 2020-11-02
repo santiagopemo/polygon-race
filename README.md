@@ -35,7 +35,7 @@ Game designer
 
 ## Installation
 
-There are two ways to get polygon race:
+There are two ways to get polygon race:  
 **1.** Go to our landing page **[Poligon Race's landing page](http://54.175.222.196)** and download one of our 2 versions for window or macos, depending on your operating system, unzip the directory, and click on the **Polygon Race** executable  
 **2.** The long way:  
   - Download untity from its official site [https://unity3d.com/es/get-unity/download](https://unity3d.com/es/get-unity/download)
@@ -55,6 +55,12 @@ To play, only 3 keys are needed, the **right arrow** to move to the right, the *
 <p align="center">
   <img width="460" height="260" src="./Images/jugando.gif">
 </p>  
+
+In **settings** you can change the **volume** of the background music, enable or disable the sound **effects** and change your **alias**  
+
+<p align="center">
+  <img width="460" height="260" src="./Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.25.34%20p.%C2%A0m..png">
+</p> 
 ## Technologies
 
 ### Blender
