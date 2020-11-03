@@ -125,7 +125,7 @@ According to the market intelligence company Newzoo, the video game industry clo
 These data reveal a great need for people to occupy their leisure time through these types of applications. That is why this project proposes the development of a racing video game, with simple playability.
 
 ## Screenshots
-![Blender modeling](https://github.com/santiagopemo/polygon-race/blob/main/Images/WhatsApp%20Video%202020-10-26%20at%2.16.26%20AM%20(1).gif)
+![Blender modeling] <p align="center"><img width="460" height="260" src="./Images/blendergif.gif"></p>  
 
 ![Choose alias](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.56.46%20p.%C2%A0m..png)
 
