@@ -4,12 +4,23 @@
   <img width="460" height="460" src="./Images/Logo_sin_fondo.png">
 </p>
 
+## Table Of Content
+- [Introduction](#Introduction)
+- [Authors](##)
+- [Installation](##)
+- [Usage](##)
+- [Contributing](##)
+- [Related projects](##)
+- [Technologies](##)
+- [The Challenge](##)
+- [Screenshots](##)
+
 ## Introduction
 Polygon Race is a simple-to-play 3D racing video game developed in the Unity video game engine integrating other tools such as Blender and Adobe Illustrator , with a programming logic developed in the C# language. This game has a retro-futuristic aesthetic, in which the player is immersed in a busy highway that leads to the utopian city of Polygon City, whose objective is to move at high speed avoiding traffic, generating the highest possible score and thus becoming the best Polygon Racer. 
 
 - Landing Page: **[Poligon Race's landing page](http://54.175.222.196)**
 
-## The Team
+## Authors
 
 ### Santiago Peña Mosquera  
 Game Logic Developer  
@@ -104,7 +115,7 @@ During the last years, the video game industry has experienced high growth rates
 According to the market intelligence company Newzoo, the video game industry closed 2019 with global revenues of more than 150,000 million dollars and year-on-year growth of 9.6%, dominating audiovisual entertainment, well ahead of music and cinema.
 These data reveal a great need for people to occupy their leisure time through these types of applications. That is why this project proposes the development of a racing video game, with simple playability.
 
-## Screenshots!
+## Screenshots
 
 ![Choose alias](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.56.46%20p.%C2%A0m..png)
 
