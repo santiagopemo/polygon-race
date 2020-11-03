@@ -48,9 +48,9 @@ There are two ways to get polygon race
   1. The fast way:  
     1. Go to our landing page **[Poligon Race's landing page](http://54.175.222.196)** and download one of our 2 versions for window or macos, depending on your operating system, unzip the directory, and click on the **Polygon Race** executable   
   2. The long way:  
-    1. Download untity from its official site [https://unity3d.com/es/get-unity/download](https://unity3d.com/es/get-unity/download)
-    2. Download Blender from official site [https://www.blender.org/](https://www.blender.org/)
-    3. Clone this repository `git clone https://github.com/santiagopemo/polygon-race`  
+    1. Download untity from its official site [https://unity3d.com/es/get-unity/download](https://unity3d.com/es/get-unity/download)  
+    2. Download Blender from official site [https://www.blender.org/](https://www.blender.org/)  
+    3. Clone this repository `git clone https://github.com/santiagopemo/polygon-race`   
     4. When you have opened the project in Unity go to **file -> Build Settings -> Build**  
     5. Execute **Polygon Race** executable file  
   
@@ -79,10 +79,12 @@ Finally in **scores** you can see all the scores made on your device
   <img width="460" height="260" src="./Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.27.56%20p.%C2%A0m..png">
 </p> 
 
-## Contributing
+## Contributing  
 
+### For non-devs
 If you want to contribute to our project, download it, play with it, and let us know what errors it has, and how we could improve the gameplay and add more mechanics to make it more fun, we will be more than willing to listen to your contributions.
 
+### For devs
 you have access to all the game files you can try to modify them add mechanics and whatever you want and we will be willing to review it and include it in the game if we like it,have fun experiencing how we have fun developing.
 
 ## Unity Teams
@@ -123,6 +125,7 @@ According to the market intelligence company Newzoo, the video game industry clo
 These data reveal a great need for people to occupy their leisure time through these types of applications. That is why this project proposes the development of a racing video game, with simple playability.
 
 ## Screenshots
+![Blender modeling](https://github.com/santiagopemo/polygon-race/blob/main/Images/WhatsApp%20Video%202020-10-26%20at%2.16.26%20AM%20(1).gif)
 
 ![Choose alias](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.56.46%20p.%C2%A0m..png)
 
