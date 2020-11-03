@@ -143,7 +143,8 @@ These data reveal a great need for people to occupy their leisure time through t
 ## Future
 We want to be able to scale this game in the future, the plans are to be able to put more maps,
 select various types of cars, implement new mechanics, make the game more fun in general terms.
-This is a list of goals we want to achieve  
+This is a list of goals we want to achieve 
+
   1.Design and implement new maps  
   2.Design, model and implement a variety of different cars that can be used  
   3.Implement turbo and brake mechanics to give more versatility to the gameplay
