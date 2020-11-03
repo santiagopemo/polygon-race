@@ -140,4 +140,14 @@ These data reveal a great need for people to occupy their leisure time through t
 ![Scores](https://github.com/santiagopemo/polygon-race/blob/main/Images/Captura%20de%20Pantalla%202020-10-26%20a%20la(s)%205.27.56%20p.%C2%A0m..png)
 
 
+## Future
+We want to be able to scale this game in the future, the plans are to be able to put more maps,
+select various types of cars, implement new mechanics, make the game more fun in general terms.
+This is a list of goals we want to achieve  
+  1.Design and implement new maps  
+  2.Design, model and implement a variety of different cars that can be used  
+  3.Implement turbo and brake mechanics to give more versatility to the gameplay
+  4.create a small database in the cloud to see the scores of our friends and generate a field of competition
+  5.Publish the game in the main mobile and computer stores, apple store, Play Store, Steam
+
 
