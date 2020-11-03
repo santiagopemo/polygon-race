@@ -6,14 +6,14 @@
 
 ## Table Of Content
 - [Introduction](#Introduction)
-- [Authors](##)
-- [Installation](##)
-- [Usage](##)
-- [Contributing](##)
-- [Related projects](##)
-- [Technologies](##)
-- [The Challenge](##)
-- [Screenshots](##)
+- [Authors](#Authors)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [Related projects](#Related-projects)
+- [Technologies](#Technologies)
+- [The Challenge](##The-Challenge)
+- [Screenshots](#Screenshots)
 
 ## Introduction
 Polygon Race is a simple-to-play 3D racing video game developed in the Unity video game engine integrating other tools such as Blender and Adobe Illustrator , with a programming logic developed in the C# language. This game has a retro-futuristic aesthetic, in which the player is immersed in a busy highway that leads to the utopian city of Polygon City, whose objective is to move at high speed avoiding traffic, generating the highest possible score and thus becoming the best Polygon Racer. 
