@@ -12,7 +12,7 @@
 - [Contributing](#Contributing)
 - [Related projects](#Related-projects)
 - [Technologies](#Technologies)
-- [The Challenge](##The-Challenge)
+- [The Challenge](#The-Challenge)
 - [Screenshots](#Screenshots)
 
 ## Introduction
