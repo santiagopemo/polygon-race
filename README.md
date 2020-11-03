@@ -75,16 +75,16 @@ If you want to contribute to our project, download it, play with it, and let us 
 This project was inspired by the following video games
 
 ### Subway Surfers
-Subway Surfers is an endless runner video game. The game starts by tapping the touch screen, while Jake (the game's starter character) or any other character sprays graffiti on a train, and then gets caught in the act by the inspector and his dog, who starts chasing the character. While running, the player can swipe up, down, left, or right to avoid crashing into oncoming obstacles, especially moving trains, poles, tunnel walls and barriers. By swiping rapidly as speed increases, more points can be acquired. A crash results in a game over.
+Subway Surfers is an endless runner video game. The game starts by tapping the touch screen, while Jake (the game's starter character) or any other character sprays graffiti on a train, and then gets caught in the act by the inspector and his dog, who starts chasing the character. While running, the player can swipe up, down, left, or right to avoid crashing into oncoming obstacles, especially moving trains, poles, tunnel walls and barriers. By swiping rapidly as speed increases, more points can be acquired. A crash results in a game over.  
 **Website: [https://subwaysurfers.com/](https://subwaysurfers.com/)**
 
 ### Traffic Racer
 Traffic Racer is a 3D racing game available for Android, iOS, and Windows Mobile distributed in 2012 by Soner Kara.
-It belongs to the type of video games in which infinite races are carried out with a cumulative score as the car advances, the end of the game being when the player collides with another vehicle in traffic. Its playability is through touch controls arranged on the screen of the device, which can be customized in distribution, size, and automatic accelerator option.
+It belongs to the type of video games in which infinite races are carried out with a cumulative score as the car advances, the end of the game being when the player collides with another vehicle in traffic. Its playability is through touch controls arranged on the screen of the device, which can be customized in distribution, size, and automatic accelerator option.  
 **Website: [http://www.skgames.net/](http://www.skgames.net/)
 
 ### Sayonara Wild  Hearts
-Sayonara Wild Hearts is a rhythm game broken into 23 levels. In each level, the player controls the main character as they automatically travel through a surrealistic landscape alongside a pop music soundtrack. The general mechanics of each level change, but in general the player attempts to guide the character to collect hearts across the level to earn points, while avoiding obstacles.
+Sayonara Wild Hearts is a rhythm game broken into 23 levels. In each level, the player controls the main character as they automatically travel through a surrealistic landscape alongside a pop music soundtrack. The general mechanics of each level change, but in general the player attempts to guide the character to collect hearts across the level to earn points, while avoiding obstacles.  
 **Website: [https://simogo.com/work/sayonara-wild-hearts/](https://simogo.com/work/sayonara-wild-hearts/)**
 
 ## Technologies
