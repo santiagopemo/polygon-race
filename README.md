@@ -1,4 +1,4 @@
-# POLYGON RACE 3D RACING VIDEOGAME
+# POLYGON RACE VIDEOGAME
 
 <p align="center">
   <img width="460" height="460" src="./Images/Logo_sin_fondo.png">
