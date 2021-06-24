@@ -18,7 +18,7 @@
 ## Introduction
 Polygon Race is a simple-to-play 3D racing video game developed in the Unity video game engine integrating other tools such as Blender and Adobe Illustrator , with a programming logic developed in the C# language. This game has a retro-futuristic aesthetic, in which the player is immersed in a busy highway that leads to the utopian city of Polygon City, whose objective is to move at high speed avoiding traffic, generating the highest possible score and thus becoming the best Polygon Racer. 
 
-- Landing Page: **[Poligon Race's landing page](http://54.175.222.196)**
+- Landing Page: **[Poligon Race's landing page](https://santiagopemo.github.io/Landing-Page-PolygonRace/)**
 
 ## Authors
 
@@ -46,7 +46,7 @@ Game designer
 
 There are two ways to get polygon race  
   1. The fast way:  
-    1. Go to our landing page **[Poligon Race's landing page](http://54.175.222.196)** and download one of our 2 versions for window or macos, depending on your operating system, unzip the directory, and click on the **Polygon Race** executable   
+    1. Go to our landing page **[Poligon Race's landing page](https://santiagopemo.github.io/Landing-Page-PolygonRace/)** and download one of our 2 versions for window or macos, depending on your operating system, unzip the directory, and click on the **Polygon Race** executable   
   2. The long way:  
     1. Download untity from its official site [https://unity3d.com/es/get-unity/download](https://unity3d.com/es/get-unity/download)  
     2. Download Blender from official site [https://www.blender.org/](https://www.blender.org/)  
