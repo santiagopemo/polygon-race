@@ -145,9 +145,9 @@ These data reveal a great need for people to occupy their leisure time through t
 We want to be able to scale this game in the future, This is a list of goals we want to achieve 
 
   1. Design and implement new levels  
-  2. Design, model and implement a variety of different cars for gameplay   
-  3. Implement more mechanics to give more diversity to the gameplay
-  4. Create a small database in the cloud to see the scores of our friends and generate a field of competition
-  5. Publish the game in the main mobile and computer stores, apple store, Play Store, Steam
+  1. Design, model and implement a variety of different cars for gameplay   
+  1. Implement more mechanics to give more diversity to the gameplay
+  1. Create a small database in the cloud to see the scores of our friends and generate a field of competition
+  1. Publish the game in the main mobile and computer stores, apple store, Play Store, Steam
 
 
