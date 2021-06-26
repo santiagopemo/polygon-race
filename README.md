@@ -38,21 +38,18 @@ Software engineer in training, 21 years old, computer systems technician, studyi
 ### Ricky Fabian Mosquera  
 **Front-end Developer**  
 Multimedia engineer and software engineer in training, 22 years old, studying at Holberton School. I am a kind, patient and communicative person. I have very good interpersonal relationships and I learn quickly.  
-**[LinkedIn](https://www.linkedin.com/in/fabian-mosquera-631a5a1a1/)**
 <a href="https://www.linkedin.com/in/fabian-mosquera-631a5a1a1/" target="_blank"><img width="20" height="20" src="./linkedin-icon-2.svg"></a>
 <a href="https://twitter.com/MosqueraR98" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
 
 ### Juan José Gómez Rodríguez  
 **Tester and Artist**  
 19 year old Software Engineering student at Holberton School. I am a positive and creative person who is always willing to listen to other people's ideas  
-**[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-g%C3%B3mez-1b8b801a0/)**
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-g%C3%B3mez-1b8b801a0/" target="_blank"><img width="20" height="20" src="./linkedin-icon-2.svg"></a>
 <a href="https://twitter.com/J_Gmez" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
 
 ### Andres Felipe Rodriguez Cardona  
 **Game designer**  
 proactive holberton software engineering student and multimedia engineer trained to create 3D environments  
-**[LinkedIn](https://www.linkedin.com/in/andres-rodriguez-851034167/)**
 <a href="https://www.linkedin.com/in/andres-rodriguez-851034167/" target="_blank"><img width="20" height="20" src="./linkedin-icon-2.svg"></a>
 <a href="https://twitter.com/anhujuju" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
 
