@@ -31,7 +31,8 @@ Mechatronic engineer and student of software development in holberton school, lo
 ### Alejandro Rusca Moreno  
 Front-end Developer  
 Software engineer in training, 21 years old, computer systems technician, studying at Holberton School. I like to learn both on my own and from others and make every thought possible.  
-<a href="https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/" target="_blank"><img width="50" height="50" src="./linkedin-icon-2.svg"></a>
+<a href="https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/" target="_blank"><img width="20" height="20" src="./linkedin-icon-2.svg"></a>
+<a href="https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
 
 ### Ricky Fabian Mosquera  
 Front-end Developer  
