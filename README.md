@@ -24,30 +24,37 @@ Polygon Race is a simple-to-play 3D racing video game developed in the Unity vid
 ## Authors
 
 ### Santiago Peña Mosquera  
-Game Logic Developer  
+**Game Logic Developer**  
 Mechatronic engineer and student of software development in holberton school, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
-**[LinkedIn](https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/)**
+<a href="https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/" target="_blank"><img width="20" height="20" src="./linkedin-icon-2.svg"></a>
+<a href="https://twitter.com/santiagopemo" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
 
 ### Alejandro Rusca Moreno  
-Front-end Developer  
+**Front-end Developer**  
 Software engineer in training, 21 years old, computer systems technician, studying at Holberton School. I like to learn both on my own and from others and make every thought possible.  
 <a href="https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/" target="_blank"><img width="20" height="20" src="./linkedin-icon-2.svg"></a>
-<a href="https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
+<a href="https://twitter.com/don_dropo" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
 
 ### Ricky Fabian Mosquera  
-Front-end Developer  
+**Front-end Developer**  
 Multimedia engineer and software engineer in training, 22 years old, studying at Holberton School. I am a kind, patient and communicative person. I have very good interpersonal relationships and I learn quickly.  
 **[LinkedIn](https://www.linkedin.com/in/fabian-mosquera-631a5a1a1/)**
+<a href="https://www.linkedin.com/in/fabian-mosquera-631a5a1a1/" target="_blank"><img width="20" height="20" src="./linkedin-icon-2.svg"></a>
+<a href="https://twitter.com/MosqueraR98" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
 
 ### Juan José Gómez Rodríguez  
-Tester and Artist  
+**Tester and Artist**  
 19 year old Software Engineering student at Holberton School. I am a positive and creative person who is always willing to listen to other people's ideas  
 **[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-g%C3%B3mez-1b8b801a0/)**
+<a href="https://www.linkedin.com/in/juan-jos%C3%A9-g%C3%B3mez-1b8b801a0/" target="_blank"><img width="20" height="20" src="./linkedin-icon-2.svg"></a>
+<a href="https://twitter.com/J_Gmez" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
 
 ### Andres Felipe Rodriguez Cardona  
-Game designer  
+**Game designer**  
 proactive holberton software engineering student and multimedia engineer trained to create 3D environments  
 **[LinkedIn](https://www.linkedin.com/in/andres-rodriguez-851034167/)**
+<a href="https://www.linkedin.com/in/andres-rodriguez-851034167/" target="_blank"><img width="20" height="20" src="./linkedin-icon-2.svg"></a>
+<a href="https://twitter.com/anhujuju" target="_blank"><img width="20" height="20" src="./cdnlogo_twitter-icon.svg"></a>
 
 ## Installation
 
